@@ -79,5 +79,9 @@
   background: var(--white);
   color: var(--text);
   cursor: not-allowed;
-  border-bottom: 4px solid var(--green);
+  border-bottom: 5px solid var(--green);
+}
+
+.countdownButton img {
+  margin-left: 1rem;
 }
