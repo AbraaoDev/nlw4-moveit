@@ -11,14 +11,6 @@
   <a href="#-license">License</a>
 </p>
 
-<p align="center">
-  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
-  
-  <img src="https://img.shields.io/github/forks/guilhermecapitao/nlw-04-reactjs-moveit?label=forks&message=MIT&color=5965E0&labelColor=121214" alt="Forks">
-
-  <img src="https://img.shields.io/github/stars/guilhermecapitao/nlw-04-reactjs-moveit?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
-</p>
-
 <br>
 
 <p align="center">
@@ -41,13 +33,13 @@ This project was developed using the following technologies:
 
 Clone the project and access the folder
 
-```bash
-$ git clone https://github.com/guilhermecapitao/nlw04-moveit-web.git && cd nlw04-moveit-web
+```zsh
+$ git clone https://github.com/abraaodev/nl4-moveit && cd nlw04-moveit
 ```
 
 Follow the steps below
 
-```bash
+```zsh
 # Install the dependencies
 $ yarn
 
